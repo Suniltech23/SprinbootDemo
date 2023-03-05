@@ -1,5 +1,5 @@
-package com.example.day1;
-import java.util.*;
+package com.example.day1.programs;
+
 public class BubbleSort {
 
 // Java program for implementation of Bubble Sort

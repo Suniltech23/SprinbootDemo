@@ -1,4 +1,4 @@
-package com.example.day1;
+package com.example.day1.programs;
 
 public class FirstNonRepeatChar {
     public static void FirstNonRepeat(String s)

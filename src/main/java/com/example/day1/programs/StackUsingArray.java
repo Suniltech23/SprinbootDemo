@@ -1,10 +1,9 @@
-package com.example.day1;
+package com.example.day1.programs;
 
 // Java Program to Implement Stack in Java Using Array and
 // Generics
 
 // Importing input output classes
-import java.io.*;
 // Importing all utility classes
 import java.util.*;
 

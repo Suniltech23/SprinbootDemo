@@ -1,4 +1,4 @@
-package com.example.day1;
+package com.example.day1.programs;
 
 public class FindPairs {
     public static void main(String[] args)

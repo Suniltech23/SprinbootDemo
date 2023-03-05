@@ -1,1 +1,5 @@
 rootProject.name = 'day1'
+include 'integrationTest'
+include 'src:integrationTest'
+findProject(':src:integrationTest')?.name = 'integrationTest'
+

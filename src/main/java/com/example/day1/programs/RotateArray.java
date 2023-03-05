@@ -1,4 +1,4 @@
-package com.example.day1;
+package com.example.day1.programs;
 
 public class RotateArray {
     static void Rotate(int arr[], int d, int n)
