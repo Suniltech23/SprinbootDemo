@@ -27,6 +27,7 @@ dependencies {
 	testImplementation 'io.cucumber:cucumber-gherkin:7.9.0'
 	testImplementation 'io.cucumber:cucumber-spring:7.9.0'
 	testImplementation group: 'junit', name: 'junit', version: '4.13'
+	testImplementation 'io.rest-assured:rest-assured:5.2.1'
 
 
 }
